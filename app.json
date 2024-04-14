@@ -20,7 +20,7 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "607ebdb8-091c-48ec-80b2-5f5dba068737"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
